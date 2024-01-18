@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(97, 97, 182);
+    color: white;
+}
+header .container .item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#center .container .box .item{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+#center .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    width: 100%;
+}
+.item{
+    margin-top: 25px;
+}
+.form-group .item{
+    display: flex;
+    padding: 0px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+#button{
+    font-size: 20px;
+    padding: 15px;
+    border: 1px solid  rgb(97, 97, 182);;
+    background-color: rgb(97, 97, 182);
+}
+footer{
+    background-color: rgb(179, 179, 179);
+}
+footer .container .title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.box{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.box .items{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+footer .container .text{
+    padding-bottom: 90px;
+}
+main .container .items{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+main .container .items .item{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 0px;
+}
